@@ -1,1 +1,1 @@
-print("Hello, world!") - create a hello.py file
+name = input("Enter your name: ")\nprint(f"Hello, {name}!")
